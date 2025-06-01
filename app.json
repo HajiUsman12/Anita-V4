@@ -1,13 +1,13 @@
 {
-  "name": "Queen Anita V4",
-  "description": "A WhatsApp Bot Created By David Cyril",
+  "name": "ɴᴏᴏʙ ʜᴀxᴏʀツ",
+  "description": "A WhatsApp Bot Created By NOOB_HASAN",
   "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here.",
+      "description": "{"noiseKey":{"private":{"type":"Buffer","data":"mNhlbapN7udd5FK4ozEnwo+v2ZFwZ0PtT+a7H42ZiEE="},"public":{"type":"Buffer","data":"v6f1J4EBopjn22PAOEK/1crEWHbqcj+JFFn1MHpo5B4="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"AFtYbKa3IL1y0UnJ9kZD/TQIEAZQTB5PEb9d2hEKblg="},"public":{"type":"Buffer","data":"WrSJo+cB3puMstoVB2Sk1bEIZz+GZNtJKdwEZizvrkA="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"6MIxgW9iW3m2Bm6WfENPm6nrswAP5OGNT9GhplLeOXA="},"public":{"type":"Buffer","data":"EjK7xuwzn4LeAfr8EO41PCn6iqWTRdPlROr1gc2VFVM="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"ANeKw3E7RcrUqfMtwdpam0aGeVCeoNnPgpy6ynMxRng="},"public":{"type":"Buffer","data":"TArUhrpejYcrsyC01AvvrCmIUCtG2c5bSyY9gREr0Rc="}},"signature":{"type":"Buffer","data":"vFEZLBTyaubIcwd7s/+0YT/OOEJpZHBjo6dlhi9yJVCV4FkWmQhIoJIMT0xoxIDESdrlFfVSmLRJ0dqfx2ifig=="},"keyId":1},"registrationId":66,"advSecretKey":"NwzVqM94t1HJTB+I6rrzvBQajL3Hb+ldxVBkc9aWNSU=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"A9mQFIk6RuuQnfrVy-kE0w","phoneId":"1372892a-f3e8-4ca5-b862-5e33aae59db3","identityId":{"type":"Buffer","data":"5ZVWlx47aU29Y6yxuUK1Shdz+rg="},"registered":false,"backupToken":{"type":"Buffer","data":"kl1oJjGFlMkvKjoS6GC8s2ihYrg="},"registration":{},"account":{"details":"CP/VvsgEEMi778EGGAUgACgA","accountSignatureKey":"i//kgfoKB5HeTM2uX1L9YTdbDyovEq/Wgqzrrpo+3XA=","accountSignature":"se8RS8HFBVC5mAB6TakVOVv9zA0vZGrroqIEWPZXvRF/7Y6nTqcmOXNhP985n+qWMM/5d6RH0d/RWRRqvRCZBg==","deviceSignature":"+nSTDcuwIZRUXJQm78TraS69YVXLjJtW5tF1a5OycoF0XsOwT6b66zvZrip+c9iw3bWNaZwfNebVLEQfbzregg=="},"me":{"id":"923190217441:39@s.whatsapp.net","name":"ɴᴏᴏʙ ʜᴀxᴏʀツ"},"signalIdentities":[{"identifier":{"name":"923190217441:39@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BYv/5IH6CgeR3kzNrl9S/WE3Ww8qLxKv1oKs666aPt1w"}}],"platform":"smba","lastAccountSyncTimestamp":1748753877}",
       "value": ""
     },
     "PREFIX": {
